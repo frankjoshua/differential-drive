@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 """
    diff_tf.py - follows the output of a wheel encoder and

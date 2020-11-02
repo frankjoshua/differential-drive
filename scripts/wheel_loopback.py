@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """ 
     wheel_loopback - simulates a wheel - just for testing
     

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """
    twist_to_motors - converts a twist message to motor commands.  Needed for navigation stack
    
